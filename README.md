@@ -8,8 +8,8 @@ Thank you for taking the time to visit my little corner of the web. If you want 
 
 <hr>
 
-You can learn more about what I do @ https://www.sansanilabs.com
+You can learn more about what I do @ `<in-dev>`
 
-You can contact me @ 
+You can contact me @ `tsansani@gmail.com`
 
-You can read my blog @ https://medium.com/@sansanilabs
+You can read my blog @ `<in-dev>`
