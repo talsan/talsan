@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My Name is Tal Sansani.
 
-<!--
-**talsan/talsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm is a data-scientist, quantitative researcher, and investment management consultant with over 15 years of professional experience. Prior to consulting, I built and led the data-science efforts at American Century Investments' Quantitative Equity Group, directly informing investment strategies of nearly $15B in AUM.
 
-Here are some ideas to get you started:
+Apologies that most of my public projects are in working-but-not-production-ready states. Hopefully you find little useful bits to copy/paste/help guide your own developer's journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for taking the time to visit my little corner of the web.
+
+<hr>
+
+You can learn more about what I do @ https://www.sansanilabs.com
+
+You can contact me @ 
+
+You can read my blog @ https://medium.com/@sansanilabs
