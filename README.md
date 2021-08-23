@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tal Sansani.
 
-I'm is a data-scientist, quantitative researcher, and investment management consultant with over 15 years of professional experience. Prior to consulting, I built and led the data-science efforts at American Century Investments' Quantitative Equity Group, directly informing investment strategies of nearly $15B in AUM.
+I'm a data-scientist, quantitative researcher, and investment management consultant with over 15 years of professional experience. Prior to consulting, I built and led the data-science efforts at American Century Investments' Quantitative Equity Group, directly informing investment strategies of nearly $15B in AUM.
 
 Apologies ahead of time that most of my public repositories are in working-but-not-production-ready states. Hopefully you find useful little bits to support and guide your own developer's journey.
 
